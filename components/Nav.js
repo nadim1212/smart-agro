@@ -2,7 +2,7 @@
  
  const Nav = () => {
     return (
-     <nav className="nav justify-content-center bg-dark">
+     <nav className="nav justify-content-center bg-success">
   
     <Link href="/">
       <a className = "nav-link text-light">Home</a>

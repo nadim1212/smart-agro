@@ -12,6 +12,7 @@
   "author": "Nadim",
   "license": "ISC",
   "dependencies": {
+    "axios": "^0.26.1",
     "bootstrap": "^5.1.3",
     "next": "^11.1.2",
     "react": "^17.0.2",
